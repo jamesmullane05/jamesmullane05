@@ -116,18 +116,6 @@ Portfolio website built to showcase my projects, technical skills and experience
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesmullane05&show_icons=true&theme=default&hide_border=true" alt="James's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmullane05&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 I'm always open to internship opportunities, software engineering projects, and conversations about web development, backend systems, and practical software.
