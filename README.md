@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://james-portfolio-seven-pink.vercel.app">Portfolio</a> •
-  <a href="https://github.com/jamesmullane05">GitHub</a> •
+  <a href="https://jamesmullane05.github.io">Portfolio</a> •
   <a href="https://linkedin.com/in/james-mullane-95a526252/">LinkedIn</a> •
   <a href="mailto:jamesmullane05@gmail.com">Email</a>
 </p>
@@ -57,5 +56,5 @@ I'm currently looking for software engineering internship opportunities where I 
 I'm always open to internship opportunities, software engineering projects, and conversations about web development, backend systems, and practical software.
 
 📫 Email: **jamesmullane05@gmail.com**  
-🌐 Portfolio: **https://james-portfolio-seven-pink.vercel.app**  
+🌐 Portfolio: **https://jamesmullane05.github.io**  
 💼 LinkedIn: **https://linkedin.com/in/james-mullane-95a526252/**
