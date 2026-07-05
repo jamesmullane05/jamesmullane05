@@ -46,9 +46,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
-
-## 🚀 Currently
-
-* 🎓 Final-year Computer Science & Economics student
-* 💼 Looking for **Software Engineering Internship** and **Graduate** opportunities
-* 🌱 Always learning new technologies and building practical software
